@@ -1,5 +1,5 @@
 iTour
-- By Utkarsh Upadhyay
+- By lakshya shrivastava
 
 Description:
 
@@ -54,4 +54,4 @@ Contact Information:
 
 For inquiries or support, please contact:
 
-Email: utka7sh@gmail.com
+Email: lakshya1342002@gmail.com
